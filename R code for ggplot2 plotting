@@ -1,3 +1,5 @@
+# The following code can be utilized to plot mutation burden & copy number burden, the inputed data should be changed.
+
 library("ggplot2")
 library("ggthemes")
 data=read.delim("D:/demo/mutation_burden_cBioportal.txt",head=T,sep="\t")

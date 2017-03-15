@@ -1,4 +1,5 @@
 #Usage: to plot mutation burden of pan-cancer using ggplot2
+#Initial time: March 14, 2017
 #Author: Binghao Wu (Harvard Medical School & Massachusetts General Hospital Cancer Center)
 
 library(ggplot2)

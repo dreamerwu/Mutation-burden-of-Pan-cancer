@@ -1,5 +1,8 @@
 There are totally 31 types of cancer, the plotting order is :
 
+#!!!!!! it still need to add the sample number for CNV analysis
+
+
 tumor type	sample number
 1. Adrenocortical Carcinoma    	90
 2. AML	196
